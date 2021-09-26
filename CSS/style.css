@@ -102,6 +102,7 @@ the layout
 	padding: 10px;
 	text-align: center;
 	background: url('../images/tagline_bg.gif') repeat-x;
+	color: black;
 }
 
 #content, #sidebar {

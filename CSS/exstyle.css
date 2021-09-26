@@ -1,0 +1,110 @@
+body {
+	margin: 0 auto;
+	width: 800px;
+	padding: 0;
+	background: #ffffff repeat-x top;
+	font-family: Helvetica, sans-serif;
+	font-size: 62.5%;
+	color: rgb(0, 0, 0);
+}
+#menu {
+    text-align: center;
+
+	margin: 0 auto;
+	font-size: 1.7em;
+    background: url('../images/tagline_bg.gif') repeat-x;
+}
+#menu li {
+	display: inline;
+	margin: 0 0 0 30px;
+    
+}
+menu li a {
+	color: #fff;
+	text-decoration: none;
+	background: none;
+    
+}
+#content {
+	width: 500px;
+	margin: 20px 0 20px 0;
+	padding: 10px;
+}
+
+#content {
+	float: right;
+}
+
+#content h1 {
+	font-size: 4em;
+	margin: 0 0 10px 0;
+}
+
+#content h2 {
+	font-size: 2.4em;
+	margin: 0 0 10px 0;
+}
+#content h4 {
+	font-size: 1.5em;
+	margin: 0 0 10px 0;
+}
+#content p {
+	margin: 0 0 30px 0;
+}
+
+#content li {
+	display: inline;
+	margin: 0 0 0 20px;
+    text-align: right;
+    float: right;
+}
+
+#header h1 {
+	font-size: 4em;
+	margin: 0 0 0 0;
+	padding: 10px;
+	text-align: left;
+	white-space:nowrap;
+    display: inline;
+   
+}
+#logo h2 {
+	font-size: 2em;
+    padding: 10px;
+	margin: 0 auto ;
+	text-align: left;	
+    color: rgb(255, 255, 255);
+}
+#masthead {
+	
+	margin-top: 20px;
+	width: 800px;
+	color: #fff;
+}
+
+#masthead h1 {
+	float: left;
+}
+#header {
+    background: url('../images/wave.png')
+}
+#footer {
+	clear: both;
+	background: #eee;
+	padding: 10px;
+	border-top: 2px solid #ddd;
+	text-align: center;
+	color: #777;
+}
+
+#sidebar{
+    font-size: 1.5em;
+    width: 200px;
+	margin: 20px 0 20px 0;
+	padding: 10px;
+}
+
+#sidebar h2{
+    background: #706f6f;
+    color: rgb(255, 255, 255);
+}
