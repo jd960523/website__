@@ -1,0 +1,114 @@
+#footer{
+    background-color: #33336a;
+    padding: 10px;
+	border-top: 2px solid #ddd;
+	text-align: center;
+    color: white;
+}
+#mainContainer{
+    width: 100%;
+}
+
+
+
+h1, h2, p, ul, li {
+	margin: 0;
+	padding: 0;
+}
+
+p {
+	font-size: 1.4em;
+	line-height: 1.4em;
+}
+
+ul {
+	list-style-type: none;
+}body {
+	margin: 0 auto;
+	width: 800px;
+	padding: 0;
+	background: url('../images/Shape\ 2.png') ;
+   
+	font-family: Helvetica, sans-serif;
+	
+}
+#nav {
+	float: right;
+	margin: 50px 10px 0 0;
+	font-size: 1.4em;
+  
+	padding: 10px;
+
+    float:left;
+}
+
+ 
+#nav li {
+	display:inline;
+	margin: 0 0 0 20px;
+}
+
+#nav li a {
+	color: #fff;
+	text-decoration: none;
+	background: none;
+}
+
+#rightHeader{
+    float: right;
+    
+}
+#headerContainer{
+    float: left;
+}
+
+#leftheader{
+    float: right;
+}
+#mainContainer{
+    margin: 0 auto;
+	width: 800px;
+	padding: 0;
+	background: url('../images/DownSection.png') repeat-x bottom ;
+	font-family: Helvetica, sans-serif;
+}
+
+#h1Sec2{
+    width: 300px;
+	margin: 20px 0 20px 0;
+	padding: 10px;
+    float: left;
+}
+#banner2{
+    width: 500px;
+        
+        float:right;
+}
+#leftheader{
+    width: 250px;
+	margin: 20px 0 20px 0;
+	padding: 10px;
+
+    float:left;
+    font-size: 0.5em;
+}
+#cms{
+    
+    width: 250px;
+	margin: 20px 0 20px 0;
+	padding: 10px;
+
+    float:left;
+    font-size: 0.5em;
+}
+#topLink{
+    width: 250px;
+	margin: 20px 0 20px 0;
+	padding: 1px;
+
+    float:right;
+    font-size: 0.5em;
+}
+ 
+
+

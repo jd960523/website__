@@ -1,0 +1,7 @@
+[2021-10-8 11:41:04] layer "Joomla.png": Duplicate path: Joomla.png
+[2021-10-8 11:41:04] layer "Magento.png": Duplicate path: Magento.png
+[2021-10-8 11:41:04] layer "RArrow.png": Duplicate path: RArrow.png
+[2021-10-8 11:41:04] layer "RArrow.png": Duplicate path: RArrow.png
+[2021-10-8 11:41:04] layer "使用PSD轉HTML教學範例 臺中科技大學多媒體設計系  This is a sample text for demonstr.png": Duplicate path: 使用PSD轉HTML教學範例 臺中科技大學多媒體設計系  This is a sample text for demonstr.png
+[2021-10-8 11:41:04] layer "使用PSD轉HTML教學範例 臺中科技大學多媒體設計系  This is a sample text for demonstr.png": Duplicate path: 使用PSD轉HTML教學範例 臺中科技大學多媒體設計系  This is a sample text for demonstr.png
+[2021-10-8 11:41:04] layer "Wordpress.png": Duplicate path: Wordpress.png
